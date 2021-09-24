@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hey, I'm a recent Lambda Graduate and looking to expand my skills and work with a team
 <!--
 **RickyKlusmeier/RickyKlusmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
