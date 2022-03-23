@@ -4,7 +4,7 @@ Hey, I'm a recent Lambda Graduate and looking to expand my skills and work with 
 
 I'm a passionate Full Stack Developer living in Fort Collins, CO
 
-I'm currently working on a prject for Human Rights First Asylum doing front and back end development.
+I'm currently working on a project for Human Rights First Asylum doing front and back end development.
 
 I'm currently learning Elixir/Phoenix as well as AWS DevOps
 
